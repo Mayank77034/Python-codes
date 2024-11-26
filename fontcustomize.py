@@ -1,0 +1,5 @@
+print("hello world".title())
+print("hello world".upper())
+print("HELLO WORLD".lower())
+print("hello world".capitalize())
+print("          hello world     ".strip())
